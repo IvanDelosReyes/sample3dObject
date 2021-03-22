@@ -1,0 +1,90 @@
+newmtl Display Material_8959fd3f-e64f-4da0-b8c3-5fde4c945949
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Display Outline 1 Material_a44703cd-ff5b-4f99-8e64-33f969e8854f
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Display Outline 2 Material_6f5cf233-e7c1-49e9-9376-bb9ba80ba809
+Kd 0.149 0.149 0.149
+d 1.000
+newmtl Metal Material_f2a089bf-93a7-4b1b-a0c7-f79e40833ef4
+Kd 0.522 0.522 0.522
+d 1.000
+newmtl Antenas Material_ad379ed1-c23d-4c6a-ba85-24c6e19946e4
+Kd 0.310 0.310 0.310
+d 1.000
+newmtl Rear Glass Material_09e1122f-f0fb-4fab-a3aa-3a53b5311e9c
+Kd 0.212 0.212 0.212
+d 1.000
+newmtl Mute Switch Color Material_9c63b150-a6ea-48f0-822f-a462e0e66452
+Kd 1.000 0.435 0.000
+d 1.000
+newmtl Camera Base Material_efa5bcd0-a0c5-488d-8965-656f08bd8039
+Kd 0.212 0.212 0.212
+d 1.000
+newmtl Camera Rings Material_c9290216-bac6-426c-bc53-a461643a807d
+Kd 0.439 0.439 0.439
+d 1.000
+newmtl Lens Glass Material_7a9ec0f8-af7b-4c6e-b2b9-169b18c79323
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Lens Shade Material_3dbb29ac-9d97-4e47-8b4f-9c5fc5336ca1
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Lens 1 Material_3ec1fef9-9015-4d80-9c58-153dada0e141
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens1_3.jpg
+newmtl Lens 2 Material_27d24987-70d5-492d-8e06-b5dad2439f00
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens2_3.jpg
+newmtl Lens 3 Material_01951baa-d06b-4d0d-890f-33ebbef9198a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens3_3.jpg
+newmtl Grid Material_92c83abf-85f2-45fc-8f75-9db9ed8480e1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Grid_2.jpg
+newmtl Flash Material_83c159b9-170a-4c1b-bcce-3d5bfdf31558
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd led_light_3.jpg
+newmtl Playlist Background Material_2f6badae-5524-43a9-999f-edc745a2a154
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd media-mobile_1.jpg
+newmtl White Emissive_e7968858-c483-44d9-9d07-9c26e60a1517
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl White Emissive 1_ac11e890-caaf-4a85-a939-2c5ad998a9c1
+Kd 0.345 0.345 0.353
+d 1.000
+newmtl White Emissive 2_36462205-1fc4-44a3-81df-487895facad3
+Kd 0.345 0.345 0.353
+d 1.000
+newmtl Material 3_40021d70-cefb-4b38-8e26-a06bdc74c4da
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl _0474ae32-9ddc-4090-b806-3fd839eed0e4
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd btn_2&btn_2_alpha.png
+newmtl _79c71b50-4651-4629-9046-fd3ee79f7b37
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd lingows-homepage-button-icon&lingows-homepage-button-icon_alpha.png
+newmtl _2a0fd29f-8f83-40e6-9670-362e70c9ae03
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd what-we-do&what-we-do_alpha.png
+newmtl _f25e6e9c-e96f-4882-a16a-1fda73760f5f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd how-we-help&how-we-help_alpha.png
+newmtl _e859393d-73ce-4d46-9ddf-5a81f85667ac
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 2020-LOGO-UPDATE--LM--Gradient-White&2020-LOGO-UPDATE--LM--Gradient-White_alpha.png
