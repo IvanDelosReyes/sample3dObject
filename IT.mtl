@@ -1,0 +1,84 @@
+newmtl Display Material_ecc7bd92-d880-4378-8e95-cdf26add0229
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Display Outline 1 Material_0e8a85ae-22f9-4172-8c68-f23f7cea61aa
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Display Outline 2 Material_8a1ad1f1-b728-406e-bc6f-365f3b90f5ce
+Kd 0.149 0.149 0.149
+d 1.000
+newmtl Metal Material_d86de9a1-eeb5-41d9-9816-135d9ecb0881
+Kd 0.522 0.522 0.522
+d 1.000
+newmtl Antenas Material_d021d18c-44c0-414b-b341-074f87251ab6
+Kd 0.310 0.310 0.310
+d 1.000
+newmtl Rear Glass Material_9315a162-d0b9-4a88-86e8-017fd495a040
+Kd 0.212 0.212 0.212
+d 1.000
+newmtl Mute Switch Color Material_0fae54c4-3323-4c5f-8ac0-bf93b382f94b
+Kd 1.000 0.435 0.000
+d 1.000
+newmtl Camera Base Material_db9d5b8a-d6a0-415f-97e4-c0e7cedd2ecd
+Kd 0.212 0.212 0.212
+d 1.000
+newmtl Camera Rings Material_03614a19-d7e8-469f-9375-a1cbeaccc740
+Kd 0.439 0.439 0.439
+d 1.000
+newmtl Lens Glass Material_08cec97f-b2d4-404c-89e9-9dade96fcda4
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Lens Shade Material_1ddf996b-44f2-4201-a062-baad81db1801
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Lens 1 Material_a5a82bf0-da7e-49dc-86c7-996f4776e882
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens1_3.jpg
+newmtl Lens 2 Material_a598d5b9-8f0b-463c-a095-edfb469704e4
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens2_3.jpg
+newmtl Lens 3 Material_86edc29b-21b0-4158-be86-eb967b78dbbb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens3_3.jpg
+newmtl Grid Material_e5a4edb2-b0d6-4fb6-bacd-876e6cbd4196
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Grid_2.jpg
+newmtl Flash Material_2446f320-60b3-4021-924f-69d52b3d4399
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd led_light_3.jpg
+newmtl Playlist Background Material_ebfb5b58-7a8e-43ad-b1d9-31d6bb1d9e40
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd IT-MAIN.jpg
+newmtl White Emissive_8b26cff3-664e-47e5-92b5-df6799a15897
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 3_a0b87d03-cb2b-4ff7-89d2-a7c1e1563ef5
+Kd 0.004 0.024 0.184
+d 1.000
+newmtl _b9dfe22a-9c56-48d5-84f3-bfd4fa856ff2
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd learnmore.jpg
+newmtl _bd2bf28e-7597-4485-ba72-dc51905ab679
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd WHITE-2021-LINGOWS-LOGO-Smallest&WHITE-2021-LINGOWS-LOGO-Smallest_alpha.png
+newmtl _cadeea9e-8999-4049-b777-06b666dd1391
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd white-lingows-it-logo&white-lingows-it-logo_alpha.png
+newmtl _e608530e-a629-4b7e-bfc9-e2368cddc31a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd btn-fixed&btn-fixed_alpha.png
+newmtl _c36ccfdc-54ea-4d1c-a0ba-c4f5073edd20
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd it-btn.jpg
